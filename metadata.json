@@ -1,0 +1,6 @@
+{
+  "name": "CareerHub — Modern Recruitment & Talent Platform",
+  "description": "Next-generation recruitment platform connecting ambitious job seekers and forward-thinking companies with centralized application workflows, pipeline tracking, and recruiter dashboards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
